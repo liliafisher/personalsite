@@ -1,0 +1,84 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  li a {
+    display: block;
+    text-align:center;
+    padding: 14px 6px;
+    text-decoration:none;
+    color: aliceblue;
+  }
+  
+  li a:hover {
+      background-color: #111;
+  }
+
+  
+  .homeBG {
+    background: url("https://static.vecteezy.com/system/resources/thumbnails/000/518/642/small/gray_bk.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+  
+
+  .header{
+    top:5px;
+    left:5px;
+    right:5px;
+    height:100px;
+    border-bottom:solid 1px #555555
+}
+
+.common{
+    position:absolute;
+}
+
+.mainbody{
+    top:114px;
+    bottom:64px;
+    right: 114px;
+    left:114px;
+    padding-right:5px;
+}
+
+
+  .footer{
+    bottom:5px;
+    height:50px;
+    right: 5px;
+    left: 5px;
+    font-size:13px;
+    color: black;
+    text-align:center;
+}
+
+.center-graphic{
+    margin:auto;
+    max-width: 800px;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.caption{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-style:italic;
+}
+
+
+  
+  
